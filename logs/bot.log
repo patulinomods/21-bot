@@ -1,0 +1,62 @@
+2021-04-15 14:22:49,343 - __main__ - INFO - Started polling!
+2021-04-15 14:22:49,344 - __main__ - INFO - Bot started as @fnkjkdhjfakjdfsjknvjsaiofjv5_bot
+2021-04-15 14:22:59,189 - blackjackbot.gamestore - INFO - Adding game with id 5262388
+2021-04-15 14:22:59,217 - blackjackbot.lang.language - INFO - Loaded translation file translations_de.json - language code: de
+2021-04-15 14:22:59,222 - blackjackbot.lang.language - INFO - Loaded translation file translations_en.json - language code: en
+2021-04-15 14:22:59,233 - blackjackbot.lang.language - INFO - Loaded translation file translations_eo.json - language code: eo
+2021-04-15 14:22:59,238 - blackjackbot.lang.language - INFO - Loaded translation file translations_es.json - language code: es
+2021-04-15 14:22:59,249 - blackjackbot.lang.language - INFO - Loaded translation file translations_nl.json - language code: nl
+2021-04-15 14:22:59,258 - blackjackbot.lang.language - INFO - Loaded translation file translations_pl.json - language code: pl
+2021-04-15 14:22:59,262 - blackjackbot.lang.language - INFO - Loaded translation file translations_pt-br.json - language code: pt-br
+2021-04-15 14:22:59,266 - blackjackbot.lang.language - INFO - Loaded translation file translations_ru.json - language code: ru
+2021-04-15 14:22:59,274 - blackjackbot.lang.language - WARNING - The path for translations does not exist: custom_strings
+2021-04-15 14:23:00,091 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:23:18,112 - blackjackbot.gamestore - INFO - Adding game with id 1431739
+2021-04-15 14:23:18,463 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:25:48,545 - __main__ - INFO - Started polling!
+2021-04-15 14:25:48,547 - __main__ - INFO - Bot started as @bot21bot_bot
+2021-04-15 14:29:23,950 - blackjackbot.gamestore - INFO - Adding game with id 8732293
+2021-04-15 14:29:23,960 - blackjackbot.lang.language - INFO - Loaded translation file translations_de.json - language code: de
+2021-04-15 14:29:23,970 - blackjackbot.lang.language - INFO - Loaded translation file translations_en.json - language code: en
+2021-04-15 14:29:23,974 - blackjackbot.lang.language - INFO - Loaded translation file translations_eo.json - language code: eo
+2021-04-15 14:29:23,977 - blackjackbot.lang.language - INFO - Loaded translation file translations_es.json - language code: es
+2021-04-15 14:29:23,979 - blackjackbot.lang.language - INFO - Loaded translation file translations_nl.json - language code: nl
+2021-04-15 14:29:23,980 - blackjackbot.lang.language - INFO - Loaded translation file translations_pl.json - language code: pl
+2021-04-15 14:29:23,986 - blackjackbot.lang.language - INFO - Loaded translation file translations_pt-br.json - language code: pt-br
+2021-04-15 14:29:23,988 - blackjackbot.lang.language - INFO - Loaded translation file translations_ru.json - language code: ru
+2021-04-15 14:29:23,989 - blackjackbot.lang.language - WARNING - The path for translations does not exist: custom_strings
+2021-04-15 14:29:24,856 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:29:46,395 - blackjackbot.gamestore - INFO - Adding game with id 7481325
+2021-04-15 14:29:46,763 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:30:02,027 - blackjackbot.gamestore - INFO - Adding game with id 9465971
+2021-04-15 14:30:02,400 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:53:27,529 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2021-04-15 14:53:27,611 - blackjackbot.errors.errorhandler - WARNING - The update None raised the following 'NetworkError' exception: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2021-04-15 14:53:28,673 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC703A160>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:28,775 - blackjackbot.errors.errorhandler - WARNING - The update None raised the following 'NetworkError' exception: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC703A160>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:30,346 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC7026BE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:30,456 - blackjackbot.errors.errorhandler - WARNING - The update None raised the following 'NetworkError' exception: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC7026BE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:32,752 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC7026A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:32,920 - blackjackbot.errors.errorhandler - WARNING - The update None raised the following 'NetworkError' exception: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC7026A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:36,355 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC7056040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:36,394 - blackjackbot.errors.errorhandler - WARNING - The update None raised the following 'NetworkError' exception: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC7056040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:41,490 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC703AEE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:41,559 - blackjackbot.errors.errorhandler - WARNING - The update None raised the following 'NetworkError' exception: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC703AEE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:49,181 - telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC703A3A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:53:49,220 - blackjackbot.errors.errorhandler - WARNING - The update None raised the following 'NetworkError' exception: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1794265215:AAEaZrTiJ25sh06SbF_54PKg5xlmW_ZSYzY/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000022CC703A3A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-04-15 14:57:21,458 - blackjackbot.gamestore - INFO - Adding game with id 3593855
+2021-04-15 14:57:21,905 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:57:35,319 - blackjackbot.gamestore - INFO - Adding game with id 5803370
+2021-04-15 14:57:35,709 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:57:44,196 - blackjackbot.gamestore - INFO - Adding game with id 9539224
+2021-04-15 14:57:44,564 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:57:51,223 - blackjackbot.gamestore - INFO - Adding game with id 5817713
+2021-04-15 14:57:52,039 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 14:58:05,319 - blackjackbot.gamestore - INFO - Adding game with id 9767741
+2021-04-15 14:58:05,662 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 15:48:14,680 - blackjackbot.gamestore - INFO - Adding game with id 8693345
+2021-04-15 15:48:15,000 - blackjackbot.errors.errorhandler - WARNING - The update {'update_id': 129097870, 'message': {'message_id': 40, 'date': 1618512497, 'chat': {'id': 1114219172, 'type': 'private', 'username': 'andersoon_araujo', 'first_name': 'Anderson', 'last_name': 'Araújo'}, 'text': '/start', 'entities': [{'type': 'bot_command', 'offset': 0, 'length': 6}], 'caption_entities': [], 'photo': [], 'new_chat_members': [], 'new_chat_photo': [], 'delete_chat_photo': False, 'group_chat_created': False, 'supergroup_chat_created': False, 'channel_chat_created': False, 'from': {'id': 1114219172, 'first_name': 'Anderson', 'is_bot': False, 'last_name': 'Araújo', 'username': 'andersoon_araujo'}}} raised the following 'NetworkError' exception: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2021-04-15 15:56:55,808 - blackjackbot.gamestore - INFO - Adding game with id 9942434
+2021-04-15 15:56:56,194 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
+2021-04-15 15:57:09,929 - blackjackbot.gamestore - INFO - Adding game with id 3713721
+2021-04-15 15:57:10,286 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 1533592760, 'BTC'
